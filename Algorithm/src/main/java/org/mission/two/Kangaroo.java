@@ -1,6 +1,7 @@
 package org.mission.two;
 
 public class Kangaroo {
+    // enum 으로 바꾸기
     private static final String YES = "YES";
     private static final String NO = "NO";
 
@@ -20,6 +21,7 @@ public class Kangaroo {
         return NO;
     }
 
+    // 뺄 필요 없음
     private boolean condition(int x1, int x2) {
         return x1 <= x2;
     }
