@@ -5,6 +5,9 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import static org.hamcrest.Matchers.is;
+import static org.junit.Assert.assertThat;
+
 public class CircularArrayRotationTests {
     final static Logger log = (Logger) LoggerFactory.getLogger(CircularArrayRotationTests.class);
     CircularArrayRotation circularArrayRotation;
@@ -24,6 +27,6 @@ public class CircularArrayRotationTests {
 
         int result[] = circularArrayRotation.solve(inputArray, rotateCount, indexArray);
 
-        /* assertThat(result, is(expected)); */
+        assertThat(result, is(expected));
     }
 }
