@@ -1,4 +1,4 @@
-package org.designpattern.strategy.design;
+package org.pattern.strategy.design;
 
 public interface QuackBehavior {
 	public void quack();

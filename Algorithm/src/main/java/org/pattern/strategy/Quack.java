@@ -1,6 +1,6 @@
-package org.designpattern.strategy;
+package org.pattern.strategy;
 
-import org.designpattern.strategy.design.QuackBehavior;
+import org.pattern.strategy.design.QuackBehavior;
 
 public class Quack implements QuackBehavior{
 

@@ -1,6 +1,6 @@
-package org.designpattern.strategy;
+package org.pattern.strategy;
 
-import org.designpattern.strategy.design.Duck;
+import org.pattern.strategy.design.Duck;
 
 public class MallardDuck extends Duck {
 	

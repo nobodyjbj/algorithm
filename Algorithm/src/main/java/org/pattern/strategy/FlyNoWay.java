@@ -1,6 +1,6 @@
-package org.designpattern.strategy;
+package org.pattern.strategy;
 
-import org.designpattern.strategy.design.FlyBehavior;
+import org.pattern.strategy.design.FlyBehavior;
 
 public class FlyNoWay implements FlyBehavior {
 
