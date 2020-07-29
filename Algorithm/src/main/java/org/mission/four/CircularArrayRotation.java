@@ -4,9 +4,9 @@ public class CircularArrayRotation {
     public int[] solve(int[] inputArray, int rotateCount, int[] indexArray) {
         int resultSize = indexArray.length;
         int[] result = new int[resultSize];
-        int inputArraySize = inputArray.length;
+        /*int inputArraySize = inputArray.length;
 
-        /*for ( int idx = 0; idx <= rotateCount; idx++ ) {
+        for ( int idx = 0; idx <= rotateCount; idx++ ) {
             int index = indexArray.length;
             if (rotateCount > inputArraySize) {
                 rotateCount = rotateCount % inputArraySize;
@@ -28,7 +28,6 @@ public class CircularArrayRotation {
         temp = inputArray[inputArray.length - 1];
 
         for ( int idx = inputArray.length - 1; idx > 0 ; idx-- ) {
-            int test = inputArray[idx];
             if ( idx > 0 ) {
                 inputArray[idx] = inputArray[idx - 1];
             }
