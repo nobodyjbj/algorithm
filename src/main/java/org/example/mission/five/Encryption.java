@@ -1,10 +1,9 @@
 package org.example.mission.five;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import lombok.extern.slf4j.Slf4j;
 
+@Slf4j
 public class Encryption {
-    final static Logger log = (Logger) LoggerFactory.getLogger(Encryption.class);
 
     public String solve(String s) {
         String replaceStr = s.replace(" ", "");
