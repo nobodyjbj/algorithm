@@ -1,7 +1,3 @@
-# ReadMe
-
-디자인 패턴과 알고리즘 문제 풀이 정리와 공부한 내용을 정리하는 저장소입니다.
-
 ## 개발자의 관점
 
 ### [생각의 방법](https://github.com/nobodyjbj/Algorithm/wiki/%EC%83%9D%EA%B0%81%EC%9D%98-%EB%B0%A9%EB%B2%95)
@@ -34,10 +30,6 @@
 
 ### [Serialize](https://github.com/nobodyjbj/Algorithm/wiki/Serialize)
 
-### [ManipulateJavaCode](https://github.com/nobodyjbj/manipulate-java-code)
-
-### [Java8to11](https://github.com/nobodyjbj?tab=repositories)
-
 ## Spring
 
 ### [Spring Hateoas](https://github.com/nobodyjbj/Algorithm/wiki/Spring-Hateoas)
@@ -46,28 +38,31 @@
 
 ### [Spring Transaction](https://github.com/nobodyjbj/Algorithm/wiki/Spring-Transaction)
 
-## JPA
-
-### [Spring Data Jpa (interface)](https://github.com/nobodyjbj/Algorithm/wiki/Spring-Data-Jpa-(interface))
-
 ### [영속성 컨텍스트](https://github.com/nobodyjbj/algorithm/wiki/%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
 
-### [CasCade](https://github.com/nobodyjbj/Algorithm/wiki/CasCade)
+## ClassDiagram
 
-### [FetchType](https://github.com/nobodyjbj/Algorithm/wiki/FetchType)
-
+### [ClassDiagram](https://github.com/nobodyjbj/readme/wiki/Class-Diagram)
 
 ## Design Pattern
 
 ### [Design Pattern Intro](https://github.com/nobodyjbj/Algorithm/wiki/Design-Pattern-Intro)
 
 #### Create
-* Instance 생성에 관한 패턴
-    * Singleton - 싱글톤
-    * Factory Method - 팩토리메서드
-    * Abstract Factory - 추상팩토리
-    * Builder - 빌더
-    * Property - 프로토타입
+
+##### [Singleton - 싱글톤](https://github.com/nobodyjbj/readme/wiki/Singleton-%E2%80%90-%EC%8B%B1%EA%B8%80%ED%86%A4)
+##### [Factory Method - 팩토리메서드](https://github.com/nobodyjbj/readme/wiki/Factory-Method-%E2%80%90-%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A9%94%EC%84%9C%EB%93%9C)
+##### [Abstract Factory - 추상팩토리]()
+##### [Builder - 빌더]()
+##### [Property - 프로토타입]()
+
+## JPA
+
+### [Spring Data Jpa (interface)](https://github.com/nobodyjbj/Algorithm/wiki/Spring-Data-Jpa-(interface))
+
+### [CasCade](https://github.com/nobodyjbj/Algorithm/wiki/CasCade)
+
+### [FetchType](https://github.com/nobodyjbj/Algorithm/wiki/FetchType)
 
 ## Rest Api
 
