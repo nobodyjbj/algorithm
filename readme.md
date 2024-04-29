@@ -32,13 +32,13 @@
 
 ## Spring
 
+### [Spring IoC](https://github.com/nobodyjbj/readme/wiki/Spring-IoC)
+
 ### [Spring Hateoas](https://github.com/nobodyjbj/Algorithm/wiki/Spring-Hateoas)
 
 ### [Spring Data Rest](https://github.com/nobodyjbj/Algorithm/wiki/Spring-Data-Rest)
 
 ### [Spring Transaction](https://github.com/nobodyjbj/Algorithm/wiki/Spring-Transaction)
-
-### [영속성 컨텍스트](https://github.com/nobodyjbj/algorithm/wiki/%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
 
 ## ClassDiagram
 
@@ -52,7 +52,7 @@
 
 ##### [Singleton - 싱글톤](https://github.com/nobodyjbj/readme/wiki/Singleton-%E2%80%90-%EC%8B%B1%EA%B8%80%ED%86%A4)
 ##### [Factory Method - 팩토리메서드](https://github.com/nobodyjbj/readme/wiki/Factory-Method-%E2%80%90-%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A9%94%EC%84%9C%EB%93%9C)
-##### [Abstract Factory - 추상팩토리]()
+##### [Abstract Factory - 추상팩토리](https://github.com/nobodyjbj/readme/wiki/Abstract-Factory-%E2%80%90-%EC%B6%94%EC%83%81%ED%8C%A9%ED%86%A0%EB%A6%AC)
 ##### [Builder - 빌더]()
 ##### [Property - 프로토타입]()
 
@@ -112,3 +112,6 @@
 
 ### [SaaS](https://github.com/nobodyjbj/Algorithm/wiki/SaaS)
 
+## DataBase
+
+### [Index](https://github.com/nobodyjbj/readme/wiki/Index)
