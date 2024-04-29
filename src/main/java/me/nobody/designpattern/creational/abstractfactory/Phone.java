@@ -11,11 +11,14 @@ public class Phone {
 
     private Display display;
 
+    private String name;
+
     @Override
     public String toString() {
         return "Phone{" +
                 "camera='" + camera + '\'' +
                 ", display='" + display + '\'' +
+                ", name='" + name + '\'' +
                 '}';
     }
 }

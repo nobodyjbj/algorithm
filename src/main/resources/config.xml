@@ -6,4 +6,6 @@
     <bean id="hello" class="java.lang.String">
         <constructor-arg value="hello"/>
     </bean>
+
+    <bean id="phone" class="me.nobody.designpattern.creational.abstractfactory.PhoneFactoryBean" />
 </beans>
