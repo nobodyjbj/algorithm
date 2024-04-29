@@ -2,7 +2,7 @@ package me.nobody.designpattern.creational.factorymethod;
 
 public interface PhoneFactory {
 
-    default me.nobody.designpattern.creational.factorymethod.Phone orderPhone(String name, String email) {
+    default Phone orderPhone(String name, String email) {
         validate(name, email);
         prepareFor(name);
         me.nobody.designpattern.creational.factorymethod.Phone phone = createPhone();
@@ -23,7 +23,7 @@ public interface PhoneFactory {
         System.out.println(name + " ready.");
     }
 
-    me.nobody.designpattern.creational.factorymethod.Phone createPhone();
+    Phone createPhone();
 
     void sendEmailTo(String email, Phone phone);
 }
