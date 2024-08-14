@@ -9,12 +9,12 @@ _분산형 오라클 네트워크_
 오라클은 분산형 웹3 생태계가 기존 데이터 소스, 레거시 시스템 및 고급 컴퓨팅에 액세스할 수 있는 방법을 제공한다.
 분산형 오라클 네트워크(DON)는 온체인 코드와 오프체인 인프라가 결합되어 실제 이벤트에 반응하고 전통적인 시스템과 상호 운영되는 고급 분산형 애플리케이션(dApp)을 지원하는 하이브리드 스마트 계약을 만들 수 있도록 한다.
 
-![[Pasted image 20240514115319.png]]
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/decentralized%20oracle%20network1.png)
 
 예를 들면, 앨리스와 밥이 스포츠 경기의 결과에 베팅하고 싶다고 가정해보자. 앨리스는 A팀에 20달러를 베팅하고, 밥은 B팀에 20달러를 베팅하며, 총 40달러는 스마트 계약에 의해 에스크로에 보유된다. 게임이 끝나면 스마트 계약은 앨리스에게 자금을 방출할지, 밥에게 자금을 방출할지 어떻게 알 수 있을까? 
 정답은 정확한 경기 결과를 오프체인에서 가져와 안전하고 신뢰할 수 있는 방식으로 블록체인에 전달하기 위해 오라클 메커니즘이 필요하다는 것이다.
 
-![[Pasted image 20240514120421.png]]
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/decentralized%20oracle%20network2.png)
 
 ## Solving the Oracle Problem
 
@@ -32,7 +32,7 @@ _분산형 오라클 네트워크_
 더 큰 문제는 오라클이 손상된다면 체인에서 잔달되는 데이터는 매우 부정확할 수 있고, 이 데이터 기반으로 스마트 컨트렉트의 실행으로 이어질 수 있다는 것이다.
 블록체인 거래는 자동화되고 불변하기 때문에, 잘못된 데이터에 기반한 스마트컨트렉트 결과는 되돌리 수 없으며, 이는 사용자의 자금이 영구적으로 손실될 수 있다는 것을 의미한다. 따라서 중앙 집중식의 오라클은 스카트컨트렉트 앱에 부적합하다.
 
-![[Pasted image 20240514122002.png]]
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/decentralized%20oracle%20network3.png)
 
 오라클 문제를 최종적으로 해결하기 위해서는 데터 조작, 부정확성, 다운타임을 방지하기 위한 분산형 오라클이 필요하다. 분산형 오라클 네트워크, 줄여서 DON은 여러개의 독립된 오라클 노드 운영자와 여러 개의 신뢰할 수 있는 데이터를 결합하여 엔드 투 엔드 분산을 구축한다.
 
@@ -41,7 +41,7 @@ DON은 온체인 코드와 오프체인 인프라가 결합되어 실제 이벤�
 Chainlink Price Feeds와 같은 많은 Chainlink 서비스는 데이터 소스, 개별 노드 운영자 및 오라클 네트워크 수준의 [[Three layers of decentralization]] 을 통하여 장애 지점을 제거한다.
 Chainlink Price Feeds는 이미 이러한 다층 분산 접근 방식을 통해 스마트 컨트렉트 생태계 전반에 걸쳐 수백억 달러를 확보할 수 있도록 지원하여 스마트 컨트렉트가 실행되는 동안 데이터 입력에 안전하게 실행될 수 있도록 보장한다. 
 
-![[Pasted image 20240514144742.png]]
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/decentralized%20oracle%20network4.png)
 
 ---
 ## Types of Blockchain Oracles
@@ -65,7 +65,7 @@ Cross Chain Oracle은 한 블록체인의 데이터를 사용하여 다른 블�
 
 안전한 off-chain 컴퓨팅을 사용하여 기술적, 법률적 또는 재정적 제약으로 인해 온체인에서 실행하기 어려운 분산형 서비스를 제공한다. 여기에는 체인링크 자동화를 사용하여 사전 정의된 이벤트가 발생할 때 스마트 컨트렉트를 실행하거나, 영지식 증명을 계산하여 데이터 데이터 프라이버시를 생성하거나, 검증 가능한 무작위성 기능을 실행하여 스마크 컨트렉트에 변조 방지 및 입증 가능한 공정한 무작위성 소스를 제공할 수 있다.
 
-![[Pasted image 20240514170107.png]]
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/decentralized%20oracle%20network5.png)
 
 ## Blockchain Oracle Use Cases
 

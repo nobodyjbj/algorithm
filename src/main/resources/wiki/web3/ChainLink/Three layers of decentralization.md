@@ -1,4 +1,4 @@
-![[Pasted image 20240514180305.png]]
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/threelayers1.png)
 
 ## Data Source Aggregation
 
@@ -20,4 +20,4 @@ Chainlink Price Feeds 내의 노드 운영자는 여러 독립적인 데이터 �
 
 Chainlink Price Feeds는 여러 보안 검토를 거친 노드 운영자의 응답을 집계하고 중앙값을 취하며, 온체인 가격 업데이트를 트리거하기 위해 미리 정의된 임계값의 응답이 필요다(예: 아래 예시에서는 21개 중 최소 14개). 이러한 유형의 오라클 네트워크 집계는 오라클 네트워크 전체가 온체인에서 데이터를 제공하는 과정에서 고가용성과 조작 저항성을 유지하도록 보장한다. 심지어 몇몇 노드나 데이터 소스가 오프라인 상태가 되거나 악의적인 활동을 시도하는 경우도 고가용성과 조작 저항성을 유지하도록 보장한다.
 
-![[Pasted image 20240514182848.png]]
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/threelayers2.png)

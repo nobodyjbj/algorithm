@@ -5,7 +5,7 @@ Chainlink CCIP는 dApps이나 web3기업에게 크로스체인에 대한 인터�
 
 크로스체인의 고유한 위험을 고려하여 CCIP는 보안 우선 사고 방식으로 구축된다. 
 
-![[Pasted image 20240516144153.png]]
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/decentralized%20oracle%20network1.png)
 
 ## Chainlink CCIP core capabilities
 
