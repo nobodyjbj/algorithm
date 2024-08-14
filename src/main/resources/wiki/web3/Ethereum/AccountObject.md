@@ -26,7 +26,7 @@ Account는 총 4가지(Nonce, Balance, StorageRoot, CodaHash) 정보로 구성�
 * 개인키 정보를 가지고 있지 않다.
 * 자체적 트렌젝션을 생성할 수 없고, 타 계정으로 부터 받은 메시지에 대한 응답으로 내부 트랜젝션을 실행할 수 있다.
 
-![image](/image/account_object1.png)
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/account_object1.png)
 
 위이 그림과 같이 외부 소유 계정으로 부터 모든 상태 변환이 시작되며, 외부 소유 계정이 다른 외부 소유 계정에게 이더를 전송하기 위하여 트랜젝션을 생성하거나, 특정 계약을 수행하기 위해 컨트랙트 계정에게 트랜잭션을 발송하여 계약이 발동될 수 있다록 할 수 있는 것이다.
 
@@ -34,7 +34,7 @@ Account는 총 4가지(Nonce, Balance, StorageRoot, CodaHash) 정보로 구성�
 
 ## EOA 생성 과정
 
-![image](/image/account_object2.png)
+![image](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/image/account_object2.png)
 
 1. 지갑 프로그램(메타마스크, ~ 월렛 등등)을 통해 개인 키를 생성하는 과정은 랜덤한 256 bit 데이터를 생성하고, 생성된 데이터를 64자리의 Hex 열로 인코딩한 결과 값이다.
 2. 개인키를 통해 ECDSA(타원곡선전자서명 아리고리즘)을 이용하여 공개키를 새성한다.
