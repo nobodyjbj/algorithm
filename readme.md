@@ -130,10 +130,34 @@
 
 ## LLM
 
-### [LangChain]()
+### [LangChain](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangChain.md)
 
-### []()
+### [LECL](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LCEL%20(LangChain%20Expression%20Language).md)
 
-### []()
+### [LangSmith](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangSmith.md)
 
-### []()
+### [RAG](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Retrieval%20Augmented%20Generation(RAG).md)
+
+### [VectorDatabase](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Vector%20Database.md)
+
+### [VectorSimilarityExplained](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Vector%20Similarity%20Explained(%EC%9C%A0%EC%82%AC%EB%8F%84%20%EA%B2%80%EC%83%89).md)
+
+### [AIAgent](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/AI%20Agent.md)
+
+## WEB3
+
+### Ethereum
+
+#### []()
+
+#### []()
+
+#### []()
+
+#### []()
+
+#### []()
+
+#### []()
+
+#### []()
