@@ -12,15 +12,15 @@
 
 ## SOLID
 
-### [OCP (Open-Closed Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/OCP(Open-Close-Principle).md))
+### [OCP (Open-Closed Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/OCP(Open-Close-Principle).md)
 
-### [SRP (Single Responsibility Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/SRP-(Single-Responsibility-Principle).md))
+### [SRP (Single Responsibility Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/SRP-(Single-Responsibility-Principle).md)
 
-### [ISP (Interface Segregation Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/ISP-(Interface-Segregation-Principle).md))
+### [ISP (Interface Segregation Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/ISP-(Interface-Segregation-Principle).md)
 
-### [DIP (Dependency Inversion Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/DIP-(Dependency-Inversion-Principle).md))
+### [DIP (Dependency Inversion Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/DIP-(Dependency-Inversion-Principle).md)
 
-### [LSP (Liskov substitution Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/LSP-(Liskov-substitution-Principle).md))
+### [LSP (Liskov substitution Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/LSP-(Liskov-substitution-Principle).md)
 
 ## Java
 
@@ -127,3 +127,13 @@
 ### [알고리즘 복잡도](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/algorithm_and_datas_tructure/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 
 ### [리스트](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/algorithm_and_datas_tructure/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+
+## LLM
+
+### [LangChain]()
+
+### []()
+
+### []()
+
+### []()
