@@ -1,12 +1,12 @@
 ## 개발자의 관점
 
-### [생각의 방법](https://github.com/nobodyjbj/Algorithm/wiki/%EC%83%9D%EA%B0%81%EC%9D%98-%EB%B0%A9%EB%B2%95)
+### [생각의 방법](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/mindset/%EC%83%9D%EA%B0%81%EC%9D%98-%EB%B0%A9%EB%B2%95.md)
 
-### [책](https://github.com/nobodyjbj/wiki/wiki/Book)
+### [책](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/mindset/Book.md)
 
 ## OOP
 
-### [OOP 소개](https://github.com/nobodyjbj/Algorithm/wiki/Introduction-to-OOP)
+### [OOP 소개](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/oop/Introduction-to-OOP.md)
 
 ### [OOP 개념](https://github.com/nobodyjbj/Algorithm/wiki/OOP-Concept)
 
