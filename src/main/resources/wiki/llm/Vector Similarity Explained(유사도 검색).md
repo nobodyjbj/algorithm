@@ -2,13 +2,13 @@
 ## Metric
 
 ### Euclidean distance
+![img_3.png](img_3.png)
 
-![[Pasted image 20240814104935.png]]
 두 점사이의 거리를 비교해서 유사도를 알아내는 방법, 숫자가 작을 수록 유사도가 높은 것
 
 ### Dot product Similarity
+![img.png](img.png)
 
-![[Pasted image 20240814104957.png]]
 ```python
 #e.g.
 king = [1,2,3,4,5]
@@ -21,6 +21,6 @@ dot_product = king[0] * queen[0] * king[1] * queen[1] ...
 
 ### Cosine Similarity
 
-![[Pasted image 20240814105020.png]]
+![img_1.png](img_1.png)
 
 코사인 값구해서 각도 값으로 유사도를 알아내는 방법
