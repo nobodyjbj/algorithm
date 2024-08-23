@@ -31,3 +31,15 @@ Azure API Gateway : https://learn.microsoft.com/ko-kr/dotnet/architecture/micros
   - Client side Load Balancer(게이트웨이가 클라이언트에 있는 형태)
   - Health Check
   - Spring Cloud 에서 지원을 멈춤
+
+### Spring Cloud Gateway - Filter
+
+![img_3.png](img_3.png)
+
+- 클라이언트로부터 어떤 요청 전달 받음 (Gateway, Handler, Mapping)
+- 요청에 대한 사전 조건, 조건에 따라 분기 (Predicate)
+- 사전 필터 (pre-filter) 와 사후 필터 (post-filter) 를 작성해서 요청정보 구성
+  - 작성하는 방법 두 가지
+    - Java Code
+    - YAML 파일
+
