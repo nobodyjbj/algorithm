@@ -42,9 +42,12 @@ Azure API Gateway : https://learn.microsoft.com/ko-kr/dotnet/architecture/micros
   - 작성하는 방법 두 가지
     - Java Code
     - YAML 파일
-- 사용자 정의 필터 (Custom Filter)
+- Custom Filter (사용자 정의 필터)
   - 로그 출력, 인증 처리, 로케일 변경 등등 사용자 정의 필터
+  - 원하는 라우트 정보마다 개별적으로 설정이 가능
   - AbstractGatewayFilterFactory 상속받아 구현
     - apply() 메서드를 구현
+- Global Filter
+  - 공통 필터 개념
 
 
