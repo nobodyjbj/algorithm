@@ -54,15 +54,21 @@
 
 ## Design Pattern
 
-### [Design Pattern Intro](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Design-Pattern-Intro.md)
+[//]: # (### [Design Pattern Intro]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Design-Pattern-Intro.md&#41;)
 
-#### Create
+[//]: # ()
+[//]: # (#### Create)
 
-##### [Singleton - 싱글톤](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Singleton-%E2%80%90-%EC%8B%B1%EA%B8%80%ED%86%A4.md)
-##### [Factory Method - 팩토리메서드](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Factory-Method-%E2%80%90-%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A9%94%EC%84%9C%EB%93%9C.md)
-##### [Abstract Factory - 추상팩토리](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Abstract-Factory-%E2%80%90-%EC%B6%94%EC%83%81%ED%8C%A9%ED%86%A0%EB%A6%AC.md)
-##### [Builder - 빌더]()
-##### [Property - 프로토타입]()
+[//]: # ()
+[//]: # (##### [Singleton - 싱글톤]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Singleton-%E2%80%90-%EC%8B%B1%EA%B8%80%ED%86%A4.md&#41;)
+
+[//]: # (##### [Factory Method - 팩토리메서드]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Factory-Method-%E2%80%90-%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A9%94%EC%84%9C%EB%93%9C.md&#41;)
+
+[//]: # (##### [Abstract Factory - 추상팩토리]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Abstract-Factory-%E2%80%90-%EC%B6%94%EC%83%81%ED%8C%A9%ED%86%A0%EB%A6%AC.md&#41;)
+
+[//]: # (##### [Builder - 빌더]&#40;&#41;)
+
+[//]: # (##### [Property - 프로토타입]&#40;&#41;)
 
 ## JPA
 
