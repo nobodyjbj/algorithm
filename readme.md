@@ -40,7 +40,13 @@
 
 ### [Spring Transaction](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Transaction.md)
 
+### [Spring Cloud](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud.md)
+
 ### [Spring Cloud Gateway](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud-Gateway.md)
+
+### [Spring Cloud_Config](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud-Config.md)
+
+### [Spring Cloud_Bus](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud-Bus.md)
 
 ## ClassDiagram
 
