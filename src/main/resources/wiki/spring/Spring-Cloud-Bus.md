@@ -22,8 +22,13 @@
 - 브로커, 소비자 중심
 
 #### Kafka
-- 초당 100k+ 대량 이벤츠 처리
+- 초당 100k+ 대량 이벤트 처리
 - Pub/Sub, Topic 메시지 전달
 - Ack를 기다리지 않고 전달 가능
   - ack(acknowledgment)는 프로듀서가 전송한 메시지가 브로커에 성공적으로 수신되었음을 나타내는 신호
 - 생산자 중심
+
+### AMQP(Advanced Message Queuing Protocol) for Spring Cloud Bus
+- config 정보를 수정하여도 서버를 재시동하지 않고 변경된 내용을 적용하는 방법을 구현
+- Message Queuing 기반의 Protocol
+- 서로 다른 시스템간의 효율적인 방법으로 메세지를 교환
