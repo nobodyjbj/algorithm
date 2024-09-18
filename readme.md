@@ -50,6 +50,9 @@
 
 ### [Encryption](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/encryption/encryption.md)
 
+### [Spring Cloud Communication](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud-Communication.md)
+
+
 ## ClassDiagram
 
 ### [ClassDiagram](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/class_diagram/Class-Diagram.md)
