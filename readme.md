@@ -52,6 +52,7 @@
 
 ### [Spring Cloud Communication](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud-Communication.md)
 
+### [Kafka](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/message_broker/kafka.md)
 
 ## ClassDiagram
 
@@ -132,8 +133,6 @@
 ### [Docker](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/open_solution/Docker.md)
 
 ### [Kubernetes]()
-
-### [Kafka]()
 
 ## MSA
 
