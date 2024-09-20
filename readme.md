@@ -60,6 +60,8 @@
 
 ### [CircuitBreaker](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/CircuitBreaker.md)
 
+### [Zipkin](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/Zipkin.md)
+
 ## JPA
 
 ### [Spring Data Jpa (interface)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/jpa/Spring-Data-Jpa-(interface).md)
