@@ -58,7 +58,7 @@
 
 ### [Kafka](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/kafka/kafka.md)
 
-### [CircuitBreaker](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/kafka.md)
+### [CircuitBreaker](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/CircuitBreaker.md)
 
 ## JPA
 
