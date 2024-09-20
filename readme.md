@@ -40,41 +40,25 @@
 
 ### [Spring Transaction](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Transaction.md)
 
-### [Spring Cloud](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud.md)
+## MSA
 
-### [Spring Cloud Gateway](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud-Gateway.md)
+### [MSA](https://github.com/nobodyjbj/readme/tree/master/src/main/resources/wiki/msa/MSA.md)
 
-### [Spring Cloud Config](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud-Config.md)
+### [Spring Cloud](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/Spring-Cloud.md)
 
-### [Spring Cloud Bus](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud-Bus.md)
+### [Spring Cloud Gateway](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/Spring-Cloud-Gateway.md)
+
+### [Spring Cloud Config](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/Spring-Cloud-Config.md)
+
+### [Spring Cloud Bus](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/Spring-Cloud-Bus.md)
 
 ### [Encryption](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/encryption/encryption.md)
 
-### [Spring Cloud Communication](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/spring/Spring-Cloud-Communication.md)
+### [Spring Cloud Communication](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/Spring-Cloud-Communication.md)
 
-### [Kafka](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/message_broker/kafka.md)
+### [Kafka](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/kafka.md)
 
-## ClassDiagram
-
-### [ClassDiagram](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/class_diagram/Class-Diagram.md)
-
-## Design Pattern
-
-[//]: # (### [Design Pattern Intro]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Design-Pattern-Intro.md&#41;)
-
-[//]: # ()
-[//]: # (#### Create)
-
-[//]: # ()
-[//]: # (##### [Singleton - 싱글톤]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Singleton-%E2%80%90-%EC%8B%B1%EA%B8%80%ED%86%A4.md&#41;)
-
-[//]: # (##### [Factory Method - 팩토리메서드]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Factory-Method-%E2%80%90-%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A9%94%EC%84%9C%EB%93%9C.md&#41;)
-
-[//]: # (##### [Abstract Factory - 추상팩토리]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Abstract-Factory-%E2%80%90-%EC%B6%94%EC%83%81%ED%8C%A9%ED%86%A0%EB%A6%AC.md&#41;)
-
-[//]: # (##### [Builder - 빌더]&#40;&#41;)
-
-[//]: # (##### [Property - 프로토타입]&#40;&#41;)
+### [CircuitBreaker](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/kafka.md)
 
 ## JPA
 
@@ -101,6 +85,28 @@
 ### [마지막 생각](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/rest_api/%EB%A7%88%EC%A7%80%EB%A7%89-%EC%83%9D%EA%B0%81.md)
 
 ### [HATEOAS](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/rest_api/HATEOAS.md)
+
+## ClassDiagram
+
+### [ClassDiagram](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/class_diagram/Class-Diagram.md)
+
+[//]: # (## Design Pattern)
+
+[//]: # (### [Design Pattern Intro]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Design-Pattern-Intro.md&#41;)
+
+[//]: # ()
+[//]: # (#### Create)
+
+[//]: # ()
+[//]: # (##### [Singleton - 싱글톤]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Singleton-%E2%80%90-%EC%8B%B1%EA%B8%80%ED%86%A4.md&#41;)
+
+[//]: # (##### [Factory Method - 팩토리메서드]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Factory-Method-%E2%80%90-%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A9%94%EC%84%9C%EB%93%9C.md&#41;)
+
+[//]: # (##### [Abstract Factory - 추상팩토리]&#40;https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/design_pattern/Abstract-Factory-%E2%80%90-%EC%B6%94%EC%83%81%ED%8C%A9%ED%86%A0%EB%A6%AC.md&#41;)
+
+[//]: # (##### [Builder - 빌더]&#40;&#41;)
+
+[//]: # (##### [Property - 프로토타입]&#40;&#41;)
 
 ## Git
 
@@ -133,10 +139,6 @@
 ### [Docker](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/open_solution/Docker.md)
 
 ### [Kubernetes]()
-
-## MSA
-
-### [MSA](https://github.com/nobodyjbj/readme/tree/master/src/main/resources/wiki/msa/MSA.md)
 
 ## DataBase
 

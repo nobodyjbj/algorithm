@@ -7,11 +7,11 @@
   
 Azure API Gateway : https://learn.microsoft.com/ko-kr/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern  
   
-![img.png](img.png)
+![img_6.png](img_6.png)
 
-![img_1.png](img_1.png)
+![img_7.png](img_7.png)
 
-![img_2.png](img_2.png)
+![img_8.png](img_8.png)
 
 - 인증 및 권한부여
 - 서비스(마이크로 서비스) 검색 통합
@@ -34,7 +34,7 @@ Azure API Gateway : https://learn.microsoft.com/ko-kr/dotnet/architecture/micros
 
 ### Spring Cloud Gateway - Filter
 
-![img_3.png](img_3.png)
+![img_9.png](img_9.png)
 
 - 클라이언트로부터 어떤 요청 전달 받음 (Gateway, Handler, Mapping)
 - 요청에 대한 사전 조건, 조건에 따라 분기 (Predicate)
