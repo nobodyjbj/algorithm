@@ -56,7 +56,7 @@
 
 ### [Spring Cloud Communication](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/Spring-Cloud-Communication.md)
 
-### [Kafka](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/kafka.md)
+### [Kafka](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/kafka/kafka.md)
 
 ### [CircuitBreaker](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/kafka.md)
 
