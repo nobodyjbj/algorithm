@@ -22,7 +22,7 @@
 
 ### [LSP (Liskov substitution Principle)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/solid/LSP-(Liskov-substitution-Principle).md)
 
-## Java
+## Java (https://github.com/nobodyjbj/java8to11-study)
 
 ### [JVM](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/java/JVM.md)
 
@@ -62,7 +62,7 @@
 
 ### [Zipkin](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/msa/Zipkin.md)
 
-## JPA
+## JPA (https://github.com/nobodyjbj/data-jpa, https://github.com/nobodyjbj/query-dsl)
 
 ### [Spring Data Jpa (interface)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/jpa/Spring-Data-Jpa-(interface).md)
 
@@ -152,7 +152,7 @@
 
 ### [리스트](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/algorithm_and_datas_tructure/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
-## LLM
+## LLM (https://github.com/nobodyjbj/llm-application)
 
 ### [LangChain](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangChain.md)
 
