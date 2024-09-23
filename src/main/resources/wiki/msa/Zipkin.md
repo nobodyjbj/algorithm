@@ -42,3 +42,27 @@
   - feign client
   - scheduled actions
   - message channels
+
+### SpringBoot3 변경사항
+
+- Micrometer Tracing: Spring Cloud Sleuth는 더 이상 최신 버전에서 사용되지 않고, Micrometer Tracing을 통해 Zipkin과 Brave를 사용하여 추적 관리
+- Sampling: 요청 추적의 샘플링 비율을 management.tracing.sampling.probability 로 설정
+- Zipkin 설정: Zipkin에 요청을 보낼 서버의 엔드포인트 URL을 management.zipkin.endpoint로 지정, 기본적으로 Zipkin은 localhost:9411에서 실행
+- build.gradle
+  ```groovy
+  implementation 'io.micrometer:micrometer-observation'
+  implementation 'io.micrometer:micrometer-tracing-bridge-brave'
+  implementation 'io.zipkin.brave:brave-instrumentation-spring-web'
+  implementation 'io.zipkin.reporter2:zipkin-reporter-brave'
+  ```
+- yml  
+  ```yml
+  #example
+  management:
+    tracing:
+      sampling:
+        probability: 1.0  # 모든 트래픽을 추적 (0.1로 설정하면 10%만 추적)
+    zipkin:
+      enabled: true
+      endpoint: http://localhost:9411/api/v2/spans  # Zipkin 서버 URL
+  ```
