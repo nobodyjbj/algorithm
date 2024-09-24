@@ -54,6 +54,7 @@
   implementation 'io.micrometer:micrometer-tracing-bridge-brave'
   implementation 'io.zipkin.brave:brave-instrumentation-spring-web'
   implementation 'io.zipkin.reporter2:zipkin-reporter-brave'
+  implementation 'io.github.openfeign:feign-micrometer'
   ```
 - yml  
   ```yml
