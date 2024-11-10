@@ -154,7 +154,13 @@
 
 ### [리스트](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/algorithm_and_datas_tructure/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
-## LLM (https://github.com/nobodyjbj/llm-application)
+## LLM (https://github.com/nobodyjbj/langchain_note_2024, https://github.com/nobodyjbj/llm-application)
+
+### [Lnagchain_note](https://github.com/nobodyjbj/langchain_note_2024)
+
+### [Token](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Token.pdf)
+
+### [ContextWindow](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/ContextWindow.pdf)
 
 ### [LangChain](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangChain.md)
 
@@ -162,7 +168,7 @@
 
 ### [LangSmith](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangSmith.md)
 
-### [RAG](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Retrieval%20Augmented%20Generation(RAG).md)
+### [RAG](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Retrieval%20Augmented%20Generation(RAG).`md)
 
 ### [VectorDatabase](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Vector%20Database.md)
 
