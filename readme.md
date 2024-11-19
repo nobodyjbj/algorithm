@@ -154,13 +154,15 @@
 
 ### [리스트](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/algorithm_and_datas_tructure/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
-## LLM (https://github.com/nobodyjbj/langchain_note_2024, https://github.com/nobodyjbj/llm-application)
+## LLM ([LangchainNote2024 Git](https://github.com/nobodyjbj/langchain_note_2024), [LangchainBasic Git](https://github.com/nobodyjbj/llm-application))
 
-### [Lnagchain_note](https://github.com/nobodyjbj/langchain_note_2024)
+### [Langchain_note_2024](https://github.com/nobodyjbj/langchain_note_2024)
 
 ### [Token](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Token.pdf)
 
 ### [ContextWindow](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/ContextWindow.pdf)
+
+### [OutputParser(출력파서)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/OutputParser.pdf)
 
 ### [LangChain](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangChain.md)
 
