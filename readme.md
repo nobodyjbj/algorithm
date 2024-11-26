@@ -4,6 +4,38 @@
 
 ### [책](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/mindset/Book.md)
 
+## AI
+
+### RAG - [LangchainNote2024 Git](https://github.com/nobodyjbj/langchain_note_2024), , [LangchainBasic Git](https://github.com/nobodyjbj/llm-application)
+
+#### [Langchain_note_2024](https://github.com/nobodyjbj/langchain_note_2024)
+
+#### [Rag or Langchain](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/RAG.pdf)
+
+#### [Token](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Token.pdf)
+
+#### [ContextWindow](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/ContextWindow.pdf)
+
+#### [OutputParser(출력파서)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/OutputParser.pdf)
+
+#### [LLM (Large Language Model)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LLM.pdf)
+
+### AI Research
+
+#### [LangChain](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangChain.md)
+
+#### [LECL](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LCEL%20(LangChain%20Expression%20Language).md)
+
+#### [LangSmith](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangSmith.md)
+
+#### [RAG](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Retrieval%20Augmented%20Generation(RAG).`md)
+
+#### [VectorDatabase](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Vector%20Database.md)
+
+#### [VectorSimilarityExplained](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Vector%20Similarity%20Explained(%EC%9C%A0%EC%82%AC%EB%8F%84%20%EA%B2%80%EC%83%89).md)
+
+#### [AIAgent](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/AI%20Agent.md)
+
 ## OOP
 
 ### [OOP 소개](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/oop/Introduction-to-OOP.md)
@@ -153,30 +185,6 @@
 ### [알고리즘 복잡도](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/algorithm_and_datas_tructure/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 
 ### [리스트](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/algorithm_and_datas_tructure/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
-
-## LLM ([LangchainNote2024 Git](https://github.com/nobodyjbj/langchain_note_2024), [LangchainBasic Git](https://github.com/nobodyjbj/llm-application))
-
-### [Langchain_note_2024](https://github.com/nobodyjbj/langchain_note_2024)
-
-### [Token](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Token.pdf)
-
-### [ContextWindow](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/ContextWindow.pdf)
-
-### [OutputParser(출력파서)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/OutputParser.pdf)
-
-### [LangChain](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangChain.md)
-
-### [LECL](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LCEL%20(LangChain%20Expression%20Language).md)
-
-### [LangSmith](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangSmith.md)
-
-### [RAG](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Retrieval%20Augmented%20Generation(RAG).`md)
-
-### [VectorDatabase](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Vector%20Database.md)
-
-### [VectorSimilarityExplained](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Vector%20Similarity%20Explained(%EC%9C%A0%EC%82%AC%EB%8F%84%20%EA%B2%80%EC%83%89).md)
-
-### [AIAgent](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/AI%20Agent.md)
 
 ## WEB3
 
