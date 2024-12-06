@@ -6,7 +6,7 @@
 
 ## AI
 
-### RAG - [LangchainNote2024 Git](https://github.com/nobodyjbj/langchain_note_2024), , [LangchainBasic Git](https://github.com/nobodyjbj/llm-application)
+### LLM - [LangchainNote2024 Git](https://github.com/nobodyjbj/langchain_note_2024), , [LangchainBasic Git](https://github.com/nobodyjbj/llm-application)
 
 #### [Langchain_note_2024](https://github.com/nobodyjbj/langchain_note_2024)
 
@@ -19,6 +19,10 @@
 #### [OutputParser(출력파서)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/OutputParser.pdf)
 
 #### [LLM (Large Language Model)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LLM.pdf)
+
+### Agent Framework
+
+#### [LangGragh(ModularRAG, Agent Framework)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangGragh.pdf)
 
 ### AI Research
 
