@@ -22,7 +22,7 @@
 
 ### Agent Framework
 
-#### [LangGragh(ModularRAG, Agent Framework)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangGragh.pdf)
+#### [LangGraph(ModularRAG, Agent Framework)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LangGraph.pdf)
 
 ### AI Research
 
