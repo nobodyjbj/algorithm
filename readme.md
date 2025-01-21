@@ -18,7 +18,7 @@
 
 #### [OutputParser(출력파서)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/OutputParser.pdf)
 
-#### [Reranker][(https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Reranker.pdf)]
+#### [Reranker](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/Reranker.pdf)
 
 #### [LLM (Large Language Model)](https://github.com/nobodyjbj/readme/blob/master/src/main/resources/wiki/llm/LLM.pdf)
 
